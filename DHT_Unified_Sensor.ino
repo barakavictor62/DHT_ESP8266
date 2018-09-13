@@ -7,10 +7,9 @@
 
 #define DHTPIN            7         // Pin which is connected to the DHT sensor.
 #define DHTTYPE           DHT11    
-String AP = "strathmore";      
-String PASS = "5trathm0re"; 
-String HOST = "93c53d86.ngrok.io";
-String HOST2 = "b7e23db3.ngrok.io";
+String AP = "xxxxxxxxx";      
+String PASS = "xxxxxxx"; 
+String HOST = "yoururl";
 String uri = "/endpoints/lpg/lpgconsumptiondata/";
 String PORT = "80";
 String data;
